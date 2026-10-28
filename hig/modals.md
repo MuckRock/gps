@@ -6,6 +6,8 @@ Modals should not open based on URL state, only a user action on the page. If a 
 
 The user should always have a clear path to closing the modal, and it should be clear what closing the modal does.
 
+![Modal for editing a document’s access settings, with Save, Cancel and close buttons](img/modals-close-options.png)
+
 This modal can be closed in four ways:
 
 - Clicking “Save” will change the document’s access settings.
@@ -18,5 +20,7 @@ Every modal will support the last two options: an explicit close button in the t
 ## Nesting modals
 
 We almost never nest modals. Only nest when an action within the modal requires a step outside the main workflow, and only if there isn’t a better solution.
+
+![A create-project modal nested on top of the add-to-project modal](img/modals-nested.png)
 
 In this case, I wanted to add a document to a project and then decided to create a new project in the process. That opened a second, nested modal on top of the modal to select projects. When I close this modal, I’ll go back to the first.
