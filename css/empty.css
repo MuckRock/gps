@@ -10,7 +10,7 @@
   gap: 0.75rem;
 
   border-radius: 0.5rem;
-  border: 1.282px solid var(--Gray-2, #d8dee2);
+  border: 1.282px solid var(--gray-2, #d8dee2);
 }
 
 .empty--no-border {

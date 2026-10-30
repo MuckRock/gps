@@ -63,7 +63,7 @@
   border-radius: 0.5rem;
   border: 1px solid var(--gray-3, #99a8b3);
   background: var(--white, #fff);
-  box-shadow: 0 2px 0 0 #d8dee2 inset;
+  box-shadow: 0 2px 0 0 var(--gray-2, #d8dee2) inset;
   font-family: "Source Sans Pro";
   font-size: 1rem;
   line-height: normal;
