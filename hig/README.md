@@ -3,10 +3,10 @@
 - [ ] [Navigation and internal links](navigation-and-internal-links.md)
 - [ ] [When and how to use icons](icons.md)
 - [x] [Modals and nesting modals](modals.md)  
-       - What closes a modal?
+      - What closes a modal?
 - [ ] [URLs and routes](urls-and-routes.md)  
-       - If you refresh the page, you shouldn’t lose your place.  
-       - You should be able to share a link to what you’re looking at.
+      - If you refresh the page, you shouldn’t lose your place.  
+      - You should be able to share a link to what you’re looking at.
 - [ ] [Button alignment](button-alignment.md)
 - [x] [Keyboard shortcuts](keyboard-shortcuts.md)
 - [x] [Patterns for destructive actions](destructive-actions.md)
@@ -14,12 +14,12 @@
 - [x] [Pagination and infinite scrolling](pagination-and-infinite-scrolling.md)
 - [x] [Maintaining state in hide/reveal UIs](hide-reveal-state.md)
 - [x] [“Active” orgs](active-orgs.md)  
-       - Billing concepts  
-       - Resource usage  
-       - Add-on runs
+      - Billing concepts  
+      - Resource usage  
+      - Add-on runs
 - [ ] [Notifications, snackbars and toasts](notifications.md)
 - [ ] [Invitations and emails](invitations-and-emails.md)
 - [ ] [Accessibility](accessibility.md)  
-       - [ ] Color contrast  
-       - [ ] ARIA rules
+      - [ ] Color contrast  
+      - [ ] ARIA rules
 - [x] [Global product system](global-product-system.md)

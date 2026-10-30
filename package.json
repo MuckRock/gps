@@ -1,0 +1,16 @@
+{
+  "name": "@muckrock/gps",
+  "version": "1.0.0",
+  "description": "MuckRock's global product system",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Amico <chris@muckrock.com> (https://www.muckrock.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^3.9.10",
+    "prettier-plugin-svelte": "^4.1.1"
+  }
+}
